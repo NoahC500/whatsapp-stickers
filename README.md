@@ -1,3 +1,8 @@
+# NDYC's Packs
+This repo is going to house all the sticker packs I make for WhatsApp
+
+The below info is all from the original WhatsApp sample [sticker pack repo](https://github.com/WhatsApp/stickers).
+
 # WhatsApp Stickers
 
 ![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
