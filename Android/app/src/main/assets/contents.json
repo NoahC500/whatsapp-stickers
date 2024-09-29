@@ -1,0 +1,548 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Turtle Emojis 1",
+      "publisher": "NDYC",
+      "tray_image_file": "thumbnail.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "noahdcraig@outlook.com",
+      "publisher_website": "https://github.com/NoahC500",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83E\uDD7A",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "❤\uFE0F",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83E\uDEE1",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83E\uDD28",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83E\uDD2D",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDE1D",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83E\uDEE0",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83E\uDD70",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83E\uDD2F",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDE2D",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDE09",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDE14",
+            "🐢"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83E\uDD78",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDC51",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDE0E",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83E\uDDD0",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDE07",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDE18",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83E\uDD23",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83D\uDC7D",
+            "\uD83D\uDC22"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Turtle Emojis 2",
+      "publisher": "NDYC",
+      "tray_image_file": "thumbnail.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "noahdcraig@outlook.com",
+      "publisher_website": "https://github.com/NoahC500",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDE0A",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDE1B",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDE05",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDE11",
+            "\uD83D\uDC22",
+            "\uD83D\uDE10"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83E\uDD2D",
+            "\uD83D\uDC22",
+            "\uD83E\uDD2B"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDE0D",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83E\uDD72",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDE31",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDE36",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDE43",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83E\uDD14",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83E\uDD71",
+            "🐢"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83E\uDD79",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDE04",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83E\uDEE2",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83E\uDD73",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDE12",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDE48",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83D\uDE21",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83E\uDD21",
+            "\uD83D\uDC22"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Turtle Emojis 3 (Animals)",
+      "publisher": "NDYC",
+      "tray_image_file": "thumbnail.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "noahdcraig@outlook.com",
+      "publisher_website": "https://github.com/NoahC500",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDC27",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDC28",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDE3A",
+            "\uD83D\uDC22",
+            "\uD83D\uDC08"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDC37",
+            "\uD83D\uDC22",
+            "\uD83D\uDC16"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83D\uDC38",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83E\uDD84",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDC0C",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDC2D",
+            "\uD83D\uDC22",
+            "\uD83D\uDC01"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83E\uDD8A",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDC13",
+            "\uD83D\uDC22",
+            "\uD83D\uDC14"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83E\uDDA5",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDC1D",
+            "🐢"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDC3A",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDD4A\uFE0F",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDC10",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83E\uDD8C",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDD77\uFE0F",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83E\uDD81",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83E\uDD99",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83D\uDC26\u200D⬛",
+            "\uD83D\uDC22",
+            "\uD83D\uDC26"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83D\uDC30",
+            "\uD83D\uDC22",
+            "\uD83D\uDC07"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "\uD83D\uDC12",
+            "\uD83D\uDC22",
+            "\uD83D\uDC35"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDC36",
+            "\uD83D\uDC22",
+            "\uD83D\uDC15"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "\uD83E\uDD82",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "\uD83E\uDD87",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "\uD83E\uDEBF",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "\uD83E\uDDA9",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "\uD83D\uDC34",
+            "\uD83D\uDC22",
+            "\uD83D\uDC0E"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "\uD83D\uDC19",
+            "\uD83D\uDC22"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "\uD83D\uDC22"
+          ]
+        }
+      ]
+    }
+  ]
+}
